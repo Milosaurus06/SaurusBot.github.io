@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Cloughybot</title>
+        <style>
+            body {
+                background-color: rgb(39, 39, 39);
+                color: azure;
+                font-size: 1.1em;
+            }
+            h1 {
+                color: rgb(255, 255, 255);
+            }
+            #intro {
+                font-size: 1.3em;
+            }
+            .colorful {
+                color: orange;
+            }
+        </style>
+    </head>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1 style="background-color:rgb(51, 9, 119); font-size:95px;">Welcome to Pixel <h3>
+  <p1 style="color:#ffffff";font-size:45px> Pixel is an amazing discord moderation bot that ensures safety to your discord server. Pixel does this by utilising most bot commands available to use for owners, moderators and admins.<p>
+  <p2 style="color:#ffffff";font-size:45px> Pixelbot utilises Node.js to run. this is good as it is able to do everything the standard bot can do </p>
+  <h2> how to link the bot to the discord server of your choosing</h2>
+  <p3 style="color:#ffffff":;> 1.here is the <a href="https://discord.com/api/oauth2/authorize?client_id=764237010176180234&permissions=8&scope=bot">Invite_link</a> to invite the bot </p>
